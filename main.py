@@ -7,7 +7,7 @@ print  ("Sistema Simulatorio de multa por excesso de velocidade")
 nome = input(" Qual o seu nome completo: ")
 cpf = input (" Qual o seu CPF: ")
 
-velocidade = input ("Obrigado " + nome  +  " " "CPF:"+ cpf +  ", "+ "Obrigado por confirmar seus dados, qual a velocidade que voce passou na VIA? ")
+velocidade = input ("Obrigado " + nome  +  " " "CPF:"+ cpf +  ", " + " Obrigado por confirmar seus dados, qual a velocidade que voce passou na VIA? ")
 
 #Voce tera que converter str velocidade para int dessa forma abaixo, se nao o codigo vai dar erro
 velocidade = int (velocidade)
